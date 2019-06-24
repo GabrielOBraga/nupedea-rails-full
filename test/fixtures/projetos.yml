@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: 1
+  nome_projeto: MyString
+  descricao: MyString
+  professor: one
+  data_inicio: 2019-06-24 08:35:09
+  data_final: 2019-06-24 08:35:09
+
+two:
+  numero: 1
+  nome_projeto: MyString
+  descricao: MyString
+  professor: two
+  data_inicio: 2019-06-24 08:35:09
+  data_final: 2019-06-24 08:35:09

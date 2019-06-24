@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  projeto: one
+  professor: one
+  data_inicio: 2019-06-24
+  data_final: 2019-06-24
+
+two:
+  projeto: two
+  professor: two
+  data_inicio: 2019-06-24
+  data_final: 2019-06-24

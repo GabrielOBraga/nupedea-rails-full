@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  n_matricula: MyString
+  nome_aluno: MyString
+  curso: one
+  periodo: 1
+
+two:
+  n_matricula: MyString
+  nome_aluno: MyString
+  curso: two
+  periodo: 1
